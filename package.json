@@ -2,6 +2,13 @@
   "name": "next-baseline",
   "version": "0.1.0",
   "private": true,
+  "description": "A batteries-included Next.js installation with sensible defaults",
+  "homepage": "https://github.com/kcalliauw/next-baseline",
+  "engines": {
+    "node": ">=16.0.0",
+    "yarn": ">=1.22.0",
+    "npm": "please-use-yarn"
+  },
   "scripts": {
     "dev": "next dev",
     "build": "next build",
